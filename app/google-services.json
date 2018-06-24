@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "445500772002",
+    "firebase_url": "https://teamohuaycan-af65e.firebaseio.com",
+    "project_id": "teamohuaycan-af65e",
+    "storage_bucket": "teamohuaycan-af65e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445500772002:android:33ff5ab60a824128",
+        "android_client_info": {
+          "package_name": "com.venture.teamohuaycan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445500772002-40rpb6f9osbkplbcdq19mc8nb8f9u2t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venture.teamohuaycan",
+            "certificate_hash": "a4807cfa3093bdfa6c3de05b570a2a0399a288be"
+          }
+        },
+        {
+          "client_id": "445500772002-shbps6llc59e95ijtqkvm6aa90qf3g7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbBbRXlbV8Tw_YqIxjH7IS0qc0ewwMzEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445500772002-shbps6llc59e95ijtqkvm6aa90qf3g7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
